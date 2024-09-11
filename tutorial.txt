@@ -1,0 +1,21 @@
+Lógica de programação
+- variáveis
+- operadores
+- algorítmo
+- estruturas de controle
+- POO
+- estruturas de dados
+
+GIT e GITHUB
+
+Comandos básicos do git:
+git config --global user.name "Seu nome"
+git config --global user.email "seuemail@email.com"
+git clone url_do_repositório (clona um repositorio)
+git add . (adiciona ao repositorio local)
+git commit -m "tutorial" (documentar as alterações)
+git push (enviar ao repositorio)
+Gerar token GitHub
+1) Settings
+2) Developer Settings
+3) Token classic
