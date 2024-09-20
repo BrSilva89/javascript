@@ -1,7 +1,6 @@
 /**
- * Hello Pipow
- * @author Brenno Oliveira
+ * Hello World
+ * @author Professor José de Assis
  */
 
-console.log("Hello Pipow")
-
+console.log("Hello World")
